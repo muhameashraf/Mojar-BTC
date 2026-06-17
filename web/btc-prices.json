@@ -1,0 +1,422 @@
+[
+  {
+    "category": "عيار 24 — السبائك",
+    "karat": 24,
+    "item": "سبيكة 1 جرام",
+    "unit_weight_g": 1.0,
+    "fee_per_g": 100.0
+  },
+  {
+    "category": "عيار 24 — السبائك",
+    "karat": 24,
+    "item": "سبيكة 2.5 جرام",
+    "unit_weight_g": 2.5,
+    "fee_per_g": 70.0
+  },
+  {
+    "category": "عيار 24 — السبائك",
+    "karat": 24,
+    "item": "سبيكة 5 جرام",
+    "unit_weight_g": 5.0,
+    "fee_per_g": 63.0
+  },
+  {
+    "category": "عيار 24 — السبائك",
+    "karat": 24,
+    "item": "سبيكة 10 جرام",
+    "unit_weight_g": 10.0,
+    "fee_per_g": 60.0
+  },
+  {
+    "category": "عيار 24 — السبائك",
+    "karat": 24,
+    "item": "سبيكة 20 جرام",
+    "unit_weight_g": 20.0,
+    "fee_per_g": 59.0
+  },
+  {
+    "category": "عيار 24 — السبائك",
+    "karat": 24,
+    "item": "سبيكة 31.10 جرام",
+    "unit_weight_g": 31.1,
+    "fee_per_g": 58.0
+  },
+  {
+    "category": "عيار 24 — السبائك",
+    "karat": 24,
+    "item": "سبيكة 50 جرام",
+    "unit_weight_g": 50.0,
+    "fee_per_g": 57.0
+  },
+  {
+    "category": "عيار 24 — السبائك",
+    "karat": 24,
+    "item": "سبيكة 100 جرام",
+    "unit_weight_g": 100.0,
+    "fee_per_g": 56.0
+  },
+  {
+    "category": "عيار 24 — السبائك",
+    "karat": 24,
+    "item": "سبيكة 116.65 جرام",
+    "unit_weight_g": 116.65,
+    "fee_per_g": 45.0
+  },
+  {
+    "category": "عيار 24 — السبائك البيضاوية",
+    "karat": 24,
+    "item": "بيضاوية 5 جرام",
+    "unit_weight_g": 5.0,
+    "fee_per_g": 70.0
+  },
+  {
+    "category": "عيار 24 — السبائك البيضاوية",
+    "karat": 24,
+    "item": "بيضاوية 10 جرام",
+    "unit_weight_g": 10.0,
+    "fee_per_g": 65.0
+  },
+  {
+    "category": "عيار 24 — السبائك البيضاوية",
+    "karat": 24,
+    "item": "بيضاوية 15.90 جرام",
+    "unit_weight_g": 15.9,
+    "fee_per_g": 60.0
+  },
+  {
+    "category": "عيار 24 — السبائك البيضاوية",
+    "karat": 24,
+    "item": "بيضاوية 31.45 جرام",
+    "unit_weight_g": 31.45,
+    "fee_per_g": 60.0
+  },
+  {
+    "category": "عيار 24 — خواتم",
+    "karat": 24,
+    "item": "خاتم 24 — 1 جرام",
+    "unit_weight_g": 1.0,
+    "fee_per_g": 95.0
+  },
+  {
+    "category": "عيار 24 — خواتم",
+    "karat": 24,
+    "item": "خاتم 24 — 2.5 جرام",
+    "unit_weight_g": 2.5,
+    "fee_per_g": 90.0
+  },
+  {
+    "category": "عيار 24 — خواتم",
+    "karat": 24,
+    "item": "خاتم 24 — 5 جرام",
+    "unit_weight_g": 5.0,
+    "fee_per_g": 90.0
+  },
+  {
+    "category": "عيار 24 — خواتم",
+    "karat": 24,
+    "item": "خاتم 24 — 10 جرام",
+    "unit_weight_g": 10.0,
+    "fee_per_g": 80.0
+  },
+  {
+    "category": "عيار 24 — إسورة",
+    "karat": 24,
+    "item": "إسورة 24 — 31.1 جرام",
+    "unit_weight_g": 31.1,
+    "fee_per_g": 80.0
+  },
+  {
+    "category": "عيار 24 — إسورة",
+    "karat": 24,
+    "item": "إسورة 24 — 15.55 جرام",
+    "unit_weight_g": 15.55,
+    "fee_per_g": 85.0
+  },
+  {
+    "category": "عيار 24 — كيلو (999.9 & 995)",
+    "karat": 24,
+    "item": "ربع كيلو",
+    "unit_weight_g": 250.0,
+    "fee_per_g": 26.0
+  },
+  {
+    "category": "عيار 24 — كيلو (999.9 & 995)",
+    "karat": 24,
+    "item": "نصف كيلو",
+    "unit_weight_g": 500.0,
+    "fee_per_g": 25.0
+  },
+  {
+    "category": "عيار 24 — كيلو (999.9 & 995)",
+    "karat": 24,
+    "item": "1 كيلو",
+    "unit_weight_g": 1000.0,
+    "fee_per_g": 24.0
+  },
+  {
+    "category": "عيار 24 — كيلو دائري",
+    "karat": 24,
+    "item": "ربع كيلو دائري",
+    "unit_weight_g": 250.0,
+    "fee_per_g": 29.0
+  },
+  {
+    "category": "عيار 24 — كيلو دائري",
+    "karat": 24,
+    "item": "نصف كيلو دائري",
+    "unit_weight_g": 500.0,
+    "fee_per_g": 28.0
+  },
+  {
+    "category": "عيار 24 — كيلو دائري",
+    "karat": 24,
+    "item": "1 كيلو دائري",
+    "unit_weight_g": 1000.0,
+    "fee_per_g": 27.0
+  },
+  {
+    "category": "عيار 24 — هدايا",
+    "karat": 24,
+    "item": "هدية 2.5 جرام",
+    "unit_weight_g": 2.5,
+    "fee_per_g": 85.0
+  },
+  {
+    "category": "عيار 24 — هدايا",
+    "karat": 24,
+    "item": "هدية 5 جرام",
+    "unit_weight_g": 5.0,
+    "fee_per_g": 75.0
+  },
+  {
+    "category": "عيار 24 — هدايا",
+    "karat": 24,
+    "item": "هدية 10 جرام (ملعقة)",
+    "unit_weight_g": 10.0,
+    "fee_per_g": 60.0
+  },
+  {
+    "category": "عيار 24 — سبائك ديزني/مارفل",
+    "karat": 24,
+    "item": "ديزني/مارفل 2.5 جرام",
+    "unit_weight_g": 2.5,
+    "fee_per_g": 70.0
+  },
+  {
+    "category": "عيار 24 — سبائك ديزني/مارفل",
+    "karat": 24,
+    "item": "ديزني/مارفل 5 جرام",
+    "unit_weight_g": 5.0,
+    "fee_per_g": 63.0
+  },
+  {
+    "category": "عيار 24 — سبائك ديزني/مارفل",
+    "karat": 24,
+    "item": "ديزني/مارفل 10 جرام",
+    "unit_weight_g": 10.0,
+    "fee_per_g": 60.0
+  },
+  {
+    "category": "عيار 24 — الأميرات",
+    "karat": 24,
+    "item": "أميرات 5 جرام",
+    "unit_weight_g": 5.0,
+    "fee_per_g": 70.0
+  },
+  {
+    "category": "عيار 24 — الأميرات",
+    "karat": 24,
+    "item": "أميرات 10 جرام",
+    "unit_weight_g": 10.0,
+    "fee_per_g": 65.0
+  },
+  {
+    "category": "عيار 24 — الأميرات",
+    "karat": 24,
+    "item": "أميرات 15.9 جرام",
+    "unit_weight_g": 15.9,
+    "fee_per_g": 60.0
+  },
+  {
+    "category": "عيار 24 — الأميرات",
+    "karat": 24,
+    "item": "أميرات 31.10 جرام",
+    "unit_weight_g": 31.1,
+    "fee_per_g": 60.0
+  },
+  {
+    "category": "عيار 24 — قلب تعليقة",
+    "karat": 24,
+    "item": "قلب تعليقة 10.35 جرام",
+    "unit_weight_g": 10.35,
+    "fee_per_g": 60.0
+  },
+  {
+    "category": "عيار 24 — الخرائط",
+    "karat": 24,
+    "item": "خريطة مصر 31.1 جرام",
+    "unit_weight_g": 31.1,
+    "fee_per_g": 55.0
+  },
+  {
+    "category": "عيار 24 — الخرائط",
+    "karat": 24,
+    "item": "خريطة السعودية 31.1 جرام",
+    "unit_weight_g": 31.1,
+    "fee_per_g": 55.0
+  },
+  {
+    "category": "عيار 21 — الجنيهات",
+    "karat": 21,
+    "item": "ربع جنيه",
+    "unit_weight_g": 2.0,
+    "fee_per_g": 61.0
+  },
+  {
+    "category": "عيار 21 — الجنيهات",
+    "karat": 21,
+    "item": "نصف جنيه",
+    "unit_weight_g": 4.0,
+    "fee_per_g": 55.0
+  },
+  {
+    "category": "عيار 21 — الجنيهات",
+    "karat": 21,
+    "item": "جنيه",
+    "unit_weight_g": 8.0,
+    "fee_per_g": 50.0
+  },
+  {
+    "category": "عيار 21 — الجنيهات",
+    "karat": 21,
+    "item": "2.5 جنيه",
+    "unit_weight_g": 20.0,
+    "fee_per_g": 48.0
+  },
+  {
+    "category": "عيار 21 — الجنيهات",
+    "karat": 21,
+    "item": "خمسة جنيه",
+    "unit_weight_g": 40.0,
+    "fee_per_g": 45.0
+  },
+  {
+    "category": "عيار 21 — الجنيهات",
+    "karat": 21,
+    "item": "عشرة جنيه",
+    "unit_weight_g": 80.0,
+    "fee_per_g": 42.0
+  },
+  {
+    "category": "عيار 21 — جنيهات تعليقة",
+    "karat": 21,
+    "item": "ربع جنيه تعليقة",
+    "unit_weight_g": 2.35,
+    "fee_per_g": 80.0
+  },
+  {
+    "category": "عيار 21 — جنيهات تعليقة",
+    "karat": 21,
+    "item": "نصف جنيه تعليقة",
+    "unit_weight_g": 4.35,
+    "fee_per_g": 75.0
+  },
+  {
+    "category": "عيار 21 — جنيهات تعليقة",
+    "karat": 21,
+    "item": "جنيه تعليقة",
+    "unit_weight_g": 8.35,
+    "fee_per_g": 70.0
+  },
+  {
+    "category": "عيار 21 — جنيهات ديزني/مارفل",
+    "karat": 21,
+    "item": "ربع جنيه ديزني/مارفل",
+    "unit_weight_g": 2.0,
+    "fee_per_g": 61.0
+  },
+  {
+    "category": "عيار 21 — جنيهات ديزني/مارفل",
+    "karat": 21,
+    "item": "نصف جنيه ديزني/مارفل",
+    "unit_weight_g": 4.0,
+    "fee_per_g": 55.0
+  },
+  {
+    "category": "عيار 21 — جنيهات ديزني/مارفل",
+    "karat": 21,
+    "item": "جنيه ديزني/مارفل",
+    "unit_weight_g": 8.0,
+    "fee_per_g": 50.0
+  },
+  {
+    "category": "عيار 21 — جنيهات ديزني/مارفل",
+    "karat": 21,
+    "item": "5 جنيه ديزني/مارفل",
+    "unit_weight_g": 40.0,
+    "fee_per_g": 45.0
+  },
+  {
+    "category": "عيار 21 — جنيهات تعليقة مارفل",
+    "karat": 21,
+    "item": "ربع جنيه تعليقة مارفل",
+    "unit_weight_g": 2.35,
+    "fee_per_g": 80.0
+  },
+  {
+    "category": "عيار 21 — جنيهات تعليقة مارفل",
+    "karat": 21,
+    "item": "نصف جنيه تعليقة مارفل",
+    "unit_weight_g": 4.35,
+    "fee_per_g": 75.0
+  },
+  {
+    "category": "عيار 21 — جنيهات تعليقة مارفل",
+    "karat": 21,
+    "item": "جنيه تعليقة مارفل",
+    "unit_weight_g": 8.35,
+    "fee_per_g": 70.0
+  },
+  {
+    "category": "عيار 21 — خواتم",
+    "karat": 21,
+    "item": "خاتم ربع جنيه",
+    "unit_weight_g": 2.0,
+    "fee_per_g": 95.0
+  },
+  {
+    "category": "عيار 21 — خواتم",
+    "karat": 21,
+    "item": "خاتم نصف جنيه",
+    "unit_weight_g": 4.0,
+    "fee_per_g": 90.0
+  },
+  {
+    "category": "عيار 21 — إسورة",
+    "karat": 21,
+    "item": "إسورة 30 جرام سادة",
+    "unit_weight_g": 30.0,
+    "fee_per_g": 76.0
+  },
+  {
+    "category": "عيار 21 — إسورة",
+    "karat": 21,
+    "item": "إسورة 30 جرام مجدول",
+    "unit_weight_g": 30.0,
+    "fee_per_g": 81.0
+  },
+  {
+    "category": "عيار 21 — إطارات (فريمات)",
+    "karat": 21,
+    "item": "فريم (جميع الأوزان)",
+    "unit_weight_g": 0.0,
+    "fee_per_g": 75.0
+  },
+  {
+    "category": "عيار 21 — سلسلة",
+    "karat": 21,
+    "item": "سلسلة (جميع الأوزان)",
+    "unit_weight_g": 0.0,
+    "fee_per_g": 155.0
+  }
+]
